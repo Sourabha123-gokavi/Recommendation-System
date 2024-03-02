@@ -24,3 +24,5 @@ Recommends items by sorting scores.
 Usage:
 Run the script and input a user ID.
 System provides recommended items for the user.
+
+The ppt have all the information about the steps which are involved in this recommendation system process.
